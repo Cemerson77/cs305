@@ -1,4 +1,4 @@
-**# cs305**
+**cs305**
 
 **Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?**
 
